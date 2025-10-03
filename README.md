@@ -1,5 +1,4 @@
 # Credit Card Fraud Detection
-
 A Machine Learning Approach to Minimize Fraud Losses and Investigation Costs
 
 The project emphasizes data quality, advanced feature engineering, and model evaluation to maximize fraud detection accuracy while maintaining financial efficiency.This project develops a machine learning pipeline to detect fraudulent card transactions and reduce financial losses. Using ~98K real-world transactions, the workflow covers data cleaning, feature engineering, model training, and financial optimization.
