@@ -62,7 +62,7 @@ Neural Network – OOT: 0.573
 
 ## Final Model: Random Forest, chosen for its stable and reliable performance across datasets.
 
-#  Financial Optimization
+##  Financial Optimization
 Developed financial curves comparing fraud savings vs. false positive costs
 
 Recommended cutoff: Top 5% of transactions
